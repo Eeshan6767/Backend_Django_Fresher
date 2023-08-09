@@ -1,0 +1,5 @@
+SID="HXAP1709870428IN"
+API_KEY="A3a69861263f80078b0a7f7efa2b5f495"
+TEMPLATE_ID="8767928492000"
+BASEURL=f"https://api-pp-sg.kaleyra.io/v1/{SID}"
+URL=f"https://api-pp-sg.kaleyra.io/v1/{SID}/messages"
